@@ -38,3 +38,23 @@ To design and implement a 4-way traffic signal controller using a Finite State M
 4. Then to `S_BACK`.  
 5. Cycle repeats continuously.  
 6. **Reset button** re-initializes the state machine to `S_LEFT`.
+
+## output Snapshots
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./screenshots/Screenshot 2025-05-14 173826.png" alt="snapshot" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./screenshots/Screenshot 2024-11-12 191038.png" alt="snapshot" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./screenshots/Screenshot 2025-05-14 164857.png" alt="snapshot" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./screenshots/Screenshot 2025-05-14 175518.png" alt="snapshot" />
+    </td>
+  </tr>
+</table>
